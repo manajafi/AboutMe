@@ -2,44 +2,49 @@
 
 **About Me:**
 
-A computer science graduate and a software developer. With over seven years of experience as a developer, I have worked independently and with teams and gained a good knowledge of programming languages and the software development life cycle. I love writing well-organized and clean code. I enjoy refactoring code to make things more clear and easily maintainable. I am always open to feedback and never miss a chance to give ideas to improve the status quo. I love everything about learning new things and have no attachment to any framework, language, etc. To sum it up, an enthusiastic learner, a neat coder, a helpful team-worker, and a stubborn problem solver with great sense and flexibility.
+I am a computer science graduate and an experienced software developer with over five years in the field. I have worked both independently and as part of teams, gaining extensive knowledge in various programming languages and the software development lifecycle. I am passionate about writing clean, well-structured code and enjoy refactoring to enhance clarity and maintainability. I am receptive to feedback and eager to contribute ideas for continuous improvement. My enthusiasm for learning new things is matched by my flexibility and lack of attachment to any specific framework or language. In summary, I am a dedicated learner, meticulous coder, collaborative team member, and persistent problem solver with a strong sense of adaptability.
 
-**Technologies and Services I can help with:**
+**Technologies and Services I Can Help With:**
 
-**Programming:**
+**Programming Languages and Frameworks:**
 
-- .NET
-- Windows Form
+- C#
 - ASP.NET Web Form
 - ASP.NET MVC
 - ASP.NET Core
-- Object Oriented Programming
-- Clean Code
-- Code Refactoring
-- Visual Studio
-- Write - Framework
-- Web API
+- Windows Form
+- Windows Presentation Foundation
 - ADO.NET
 - Dapper
 - Entity Framework
-- Sync and Async Communication
-- JSON Web Token (JWT)
-- Serilog
+- Web API
+
+**Development Tools:**
+
+- Visual Studio
+- Visual Studio Code
 - Git
+
+**Software Development Practices:**
+
+- Object Oriented Programming
+- Clean Code
+- Code Refactoring
+- Write - Framework
+- Serilog
 
 **Databases:**
 
 - Microsoft SQL Server
-- Redis DB
-- mongoDB
 - Microsoft Access
-- SQLite
 - LiteDB
+- Redis DB
+- Mongo DB
 
-**Principles:**
+**Software Principles:**
 
-- GRASP
 - SOLID
+- GRASP
 - KISS
 - YAGNI
 - DRY
@@ -49,22 +54,27 @@ A computer science graduate and a software developer. With over seven years of e
 - Clean Architecture
 - Onion Architecture
 
-**Front End:**
+**Front End Technologies:**
 
 - HTML
 - CSS
-- JavaScript
+- Java Script
 - jQuery
 - Bootstrap
 
+**Data and Business Intelligence:**
+
+- Business Intelligence (BI)
+- Extract, Transform, Load (ETL)
+- Data Warehousing
+- Power BI
+
 **Abilities:**
 
-- Data structure, algorithm, and problem-solving skills
-- Analyze Cost Vs Benefits of solution options
-- Code reviews and code refactoring
-- Knowledge of architectural and design patterns
-- Experience in using middleware technologies messaging
-- Practical agile methodology usage
-- Understanding of Big Data and unstructured data
-- Understand the current architecture of the product and be able to decide the best solution for developing a new solution
-- Experience in writing complex stored procedures, SQL Queries, Views, and performance tuning
+- Problem Solving
+- Code Reviews and Code Refactoring
+- High Efficiency
+- Experience in Writing Stored Procedures, SQL Queries, Performance Tuning, Security
+- Time Management
+- Teaching and Training
+- Consulting
