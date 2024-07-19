@@ -24,6 +24,7 @@ I am a computer science graduate and an experienced software developer with over
 - Visual Studio
 - Visual Studio Code
 - Git
+- Postman
 
 **Software Development Practices:**
 
