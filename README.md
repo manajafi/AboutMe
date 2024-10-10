@@ -12,12 +12,12 @@ I am a computer science graduate and an experienced software developer with over
 - ASP.NET Web Form
 - ASP.NET MVC
 - ASP.NET Core
+- Web API
 - Windows Form
 - Windows Presentation Foundation
 - ADO.NET
-- Dapper
 - Entity Framework
-- Web API
+- Dapper
 
 **Development Tools:**
 
@@ -31,16 +31,14 @@ I am a computer science graduate and an experienced software developer with over
 - Object Oriented Programming
 - Clean Code
 - Code Refactoring
-- Write - Framework
 - Serilog
 
 **Databases:**
 
 - Microsoft SQL Server
 - Microsoft Access
-- LiteDB
-- Redis DB
 - Mongo DB
+- LiteDB
 
 **Software Principles:**
 
@@ -67,7 +65,6 @@ I am a computer science graduate and an experienced software developer with over
 
 - Business Intelligence (BI)
 - Extract, Transform, Load (ETL)
-- Data Warehousing
 - Power BI
 
 **Abilities:**
