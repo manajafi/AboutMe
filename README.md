@@ -12,8 +12,8 @@ I am a computer science graduate and an experienced software developer with over
 - ASP.NET Web Form
 - ASP.NET MVC
 - ASP.NET Core
+- ASP.NET Web API
 - Blazor
-- Web API
 - Windows Form
 - Windows Presentation Foundation
 - ADO.NET
