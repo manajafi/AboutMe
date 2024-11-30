@@ -12,7 +12,7 @@ I am a computer science graduate and an experienced software developer with over
 - ASP.NET Web Form
 - ASP.NET MVC
 - ASP.NET Core
-- Bazor
+- Blazor
 - Web API
 - Windows Form
 - Windows Presentation Foundation
