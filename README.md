@@ -38,6 +38,8 @@ I am a computer science graduate and an experienced software developer with over
 
 - Microsoft SQL Server
 - Microsoft Access
+- My SQL
+- SQL Lite
 - Mongo DB
 - LiteDB
 
