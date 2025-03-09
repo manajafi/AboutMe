@@ -38,9 +38,8 @@ I am a computer science graduate and an experienced software developer with over
 
 - Microsoft SQL Server
 - Microsoft Access
-- My SQL
-- SQL Lite
-- Mongo DB
+- MySQL
+- MongoDB
 - LiteDB
 
 **Software Principles:**
@@ -53,6 +52,7 @@ I am a computer science graduate and an experienced software developer with over
 
 **Software Architecture:**
 
+- MVC Architecture
 - Clean Architecture
 - Onion Architecture
 
@@ -78,4 +78,3 @@ I am a computer science graduate and an experienced software developer with over
 - Experience in Writing Stored Procedures, SQL Queries, Performance Tuning, Security
 - Time Management
 - Teaching and Training
-- Consulting
